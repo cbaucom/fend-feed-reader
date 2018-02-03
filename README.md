@@ -1,6 +1,6 @@
 # Feed Reader Project
 
-The focus of this project is tou se Jasmine to write a number of tests against a pre-existing application. These will test the underlying business logic of the application as well as the event handling and DOM manipulation.
+The focus of this project is to use Jasmine to write a number of tests against a pre-existing application. These will test the underlying business logic of the application as well as the event handling and DOM manipulation.
 
 ## Installation
 
