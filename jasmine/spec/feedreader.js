@@ -91,9 +91,9 @@ $(function() {
         });
 
         it ('loadFeed contains at least one single .entry element', function(done) {
-            var feedList = $('.feed .entry')[0];
+            var feedList = $('.feed .entry').length;
 
-            expect(feedList).toBeGreaterThan('');
+            expect(feedList).toBeGreaterThan(0);
             done();
         });
     
